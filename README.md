@@ -1,9 +1,8 @@
 # Synthetic-customer-profiles-for-product-recommendation-week-6
 
 
-Build a Semantic Book Recommender with LLMs – Full Course
+Build a Semantic Book Recommender with LLMs
 
-This repo contains all of the code to complete the freeCodeCamp course, "Build a Semantic Book Recommender with LLMs – Full Course". There are five components to this tutorial:
 
     Text data cleaning (code in the notebook data-exploration.ipynb)
     Semantic (vector) search and how to build a vector database (code in the notebook vector-search.ipynb). This allows users to find the most similar books to a natural language query (e.g., "a book about a person seeking revenge").
