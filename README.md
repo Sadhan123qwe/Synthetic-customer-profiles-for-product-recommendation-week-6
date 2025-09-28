@@ -1,0 +1,1 @@
+# Synthetic-customer-profiles-for-product-recommendation-week-6
